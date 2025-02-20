@@ -1,13 +1,12 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
+# online_shoppers_intention
 ```
 
-Description of the app ...
+
+Online shoppers intention
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://online_shoppers_intention.streamlit.app/)
 
 ## GitHub Codespaces
 
